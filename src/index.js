@@ -1,12 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import CardList from './CardList';
 import * as serviceWorker from './serviceWorker';
+import {list} from './list';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <CardList list={list} />
   </React.StrictMode>,
   document.getElementById('root')
 );
