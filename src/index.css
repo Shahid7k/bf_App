@@ -1,6 +1,7 @@
 body {
   margin: 0;
-  background-color: rgb(180,180,250);
+  background: url('https://img.freepik.com/free-photo/blur-colored-texture_1160-889.jpg?') rgb(180,180,250);
+  background-size: cover;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
