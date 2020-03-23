@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bf_App/static/css/main.2d172194.chunk.css",
+    "main.js": "/bf_App/static/js/main.751b2423.chunk.js",
+    "main.js.map": "/bf_App/static/js/main.751b2423.chunk.js.map",
+    "runtime-main.js": "/bf_App/static/js/runtime-main.d1ba7581.js",
+    "runtime-main.js.map": "/bf_App/static/js/runtime-main.d1ba7581.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/bf_App/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.413cb2b3.chunk.js": "/bf_App/static/js/2.413cb2b3.chunk.js",
+    "static/js/2.413cb2b3.chunk.js.map": "/bf_App/static/js/2.413cb2b3.chunk.js.map",
+    "index.html": "/bf_App/index.html",
+    "precache-manifest.de8ffec728e2d4752879f542b207dc08.js": "/bf_App/precache-manifest.de8ffec728e2d4752879f542b207dc08.js",
+    "service-worker.js": "/bf_App/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/bf_App/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.2d172194.chunk.css.map": "/bf_App/static/css/main.2d172194.chunk.css.map",
+    "static/js/2.413cb2b3.chunk.js.LICENSE.txt": "/bf_App/static/js/2.413cb2b3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1ba7581.js",
+    "static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.413cb2b3.chunk.js",
+    "static/css/main.2d172194.chunk.css",
+    "static/js/main.751b2423.chunk.js"
+  ]
+}
